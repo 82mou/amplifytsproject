@@ -1,4 +1,4 @@
-# amplify-test
+# amplifytsproject
 
 ## Project setup
 ```
